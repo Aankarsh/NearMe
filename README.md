@@ -1,10 +1,11 @@
-# Ex04 Places Around Me
-## Date: 
+# Ex - 4 
+# Places Around Me
+# Date : 
 
-## AIM
+## AIM :
 To develop a website to display details about the places around my house.
 
-## DESIGN STEPS
+## DESIGN STEPS :
 
 ### STEP 1
 Create a Django admin interface.
@@ -24,8 +25,8 @@ Write HTML programs for all the regions identified.
 ### STEP 6
 Execute the programs and publish them.
 
-## CODES
-## MAP CODE:
+## CODES :
+## MAP CODE :
 ```
 <html>
     <head>
@@ -109,15 +110,15 @@ Execute the programs and publish them.
     <img src="http://rameswaramtourism.com/wp-content/uploads/2015/06/Ervadidargah-ramanathapuram-rameswaram.jpg" alt="Centered Image" style="display: block; margin: auto;"
 </body>
 ```
-## OUTPUT
-DR APJ:
+## OUTPUT :
+DR APJ
 ![Screenshot 2024-10-19 091129](https://github.com/user-attachments/assets/d1c949d8-584d-48c5-b344-eec1026c6451)
-PAMBAN BRIDGE:
+PAMBAN BRIDGE
 ![image](https://github.com/user-attachments/assets/65faa65e-7547-46d2-a02c-956228f85ee3)
-DHANUSHKODI:
+DHANUSHKODI
 ![Screenshot 2024-10-19 091123](https://github.com/user-attachments/assets/edb3eea6-2bf8-42b5-b4ea-43f6baacb70c)
-ERWADI:
+ERWADI
 ![Screenshot 2024-10-19 091136](https://github.com/user-attachments/assets/2d739300-5a1c-4c18-96f5-a4a58932b2d8)
 
-## RESULT
+## RESULT :
 The program for implementing image maps using HTML is executed successfully.
